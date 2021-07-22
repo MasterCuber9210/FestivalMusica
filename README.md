@@ -1,7 +1,7 @@
 # FestivalMusica
 #Technologies used:
 HTML
-CSS
+SASS
 Javascript
 Gulp
 NPM
